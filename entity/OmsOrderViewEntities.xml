@@ -532,6 +532,7 @@ under the License.
         <alias entity-alias="PT" name="productTypeId"/>
         <alias entity-alias="PT" name="isPhysical"/>
         <alias entity-alias="PT" name="isDigital"/>
+        
         <entity-condition>
             <!-- Using the below conditions we are fetching the eligible orders that are not sent to the external system -->
             <econditions combine="and">
